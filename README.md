@@ -9,8 +9,6 @@
   <p><strong>UI Library สำหรับ Roblox ที่สวยแบบ macOS Sequoia</strong><br>
   Retained-mode • Fully Typed • สวย • ใช้งานง่าย • โมเดิร์น</p>
 
-  ![Cascade Preview](https://via.placeholder.com/800x450/1e1e2e/89b4fa?text=Cascade+UI+Preview+—+macOS+Sequoia+Style)
-
 </div>
 
 ---
@@ -18,13 +16,8 @@
 ## ✨ คุณสมบัติเด่น
 
 - 🎨 ออกแบบมาในสไตล์ **macOS Sequoia** (สวยสะอาด ตา ไม่รก)
-- 🔄 Retained-mode UI (จัดการสถานะให้อัตโนมัติ)
-- 📘 **Fully Typed API** — เขียนโค้ดแล้ว IntelliSense ดีมาก
 - 🌗 รองรับ **Light Theme** และ **Dark Theme**
 - 🌈 หลายสี Accent ให้เลือก (Blue, Red, Green, Purple, Pink, Orange ฯลฯ)
-- ⚡ API ระดับสูง เรียบง่าย ไม่บวม
-- 🚀 เร็วและเบา เหมาะสำหรับทำ UI ระดับโปร
-- 📦 รองรับการโหลดผ่าน GitHub Releases (ไม่ต้องใช้ Wally ก็ได้)
 
 ---
 
