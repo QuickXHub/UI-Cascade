@@ -33,8 +33,7 @@ end
 -- โหลด Cascade เวอร์ชันล่าสุด
 local cascade = import("biggaboy212", "Cascade", "latest", "dist.luau")
 
-```lua
--- Window
+```
 
 local app = cascade.New({
     Theme = cascade.Themes.Dark,
