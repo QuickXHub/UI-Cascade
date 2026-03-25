@@ -1,8 +1,8 @@
-# 🌌 ชื่อโปรเจกต์
+# UI Cascade
 
-> คำอธิบายสั้น ๆ แบบหนึ่งบรรทัดที่ทำให้คนอยากคลิกทันที
+> นี้จะเป็๋นการบอกวิธีการใช้ UI Cascade 
 
-![Demo](https://your-demo-image.png)
+![Example](https://github.com/QuickXHub/UI-Cascade/blob/main/Example.lua)
 
 ## Features
 - ✅ Feature 1
